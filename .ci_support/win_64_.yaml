@@ -7,6 +7,6 @@ channel_targets:
 cxx_compiler:
 - vs2022
 libtorch:
-- '2.13'
+- '2.14'
 target_platform:
 - win-64
